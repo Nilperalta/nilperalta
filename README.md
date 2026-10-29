@@ -1,3 +1,4 @@
+
 <!-- BANNER: sube tu imagen a /assets/banner.png en el repo y descomenta la línea de abajo -->
 <!-- <img src="./assets/banner.png" alt="Banner de Nil" width="100%"> -->
 
@@ -8,7 +9,7 @@
   Egresada de Administración de Sistemas · Lima, Perú 🇵🇪
 </p>
 
----
+<img width="735" height="310" alt="banner" src="https://github.com/user-attachments/assets/cd920e9e-2f12-4d0d-ab6f-88f552d97ed9" />
 
 ## 👩‍💻 Sobre mí
 
