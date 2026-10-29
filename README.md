@@ -1,16 +1,70 @@
-## Hi there 👋
+<!-- BANNER: sube tu imagen a /assets/banner.png en el repo y descomenta la línea de abajo -->
+<!-- <img src="./assets/banner.png" alt="Banner de Nil" width="100%"> -->
 
-<!--
-**Nilperalta/nilperalta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hola, soy Nilda Peralta 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <b>Desarrolladora Frontend</b> · React · JavaScript<br>
+  Egresada de Administración de Sistemas · Lima, Perú 🇵🇪
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 Sobre mí
+
+Soy desarrolladora frontend recién egresada de **Administración de Sistemas**. Me gusta construir interfaces claras, responsivas y fáciles de usar, cuidando tanto el código como la experiencia del usuario.
+
+Actualmente estoy:
+
+- 🚀 Profundizando en **React** y JavaScript moderno
+- 🎨 Aprendiendo **Supabase** (Baas) para conectar Frontend con Backend
+- 🔎 Buscando mi primera oportunidad profesional como desarrolladora frontend
+
+---
+
+## 🛠️ Tecnologías
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Bases de datos y backend como servicio
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### Herramientas y nube
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+
+### Diseño
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 📂 Proyectos destacados
+
+| Proyecto | Descripción | Tecnologías |
+|---|---|---|
+| [Nombre del proyecto](https://github.com/tu-usuario/proyecto) | Breve descripción de qué hace y qué problema resuelve | React, CSS |
+| [Nombre del proyecto](https://github.com/tu-usuario/proyecto) | Breve descripción de qué hace y qué problema resuelve | JavaScript, Supabase |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados">
+</p>
+
+---
+
+## 📫 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU-PERFIL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-correo@gmail.com)
+[![Portafolio](https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tu-portafolio.com)
