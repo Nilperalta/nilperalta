@@ -49,7 +49,7 @@ Actualmente estoy:
 |---|---|---|
 | [Tacqua](https://tacqua.pe/) | Empresa de bombas de agua que vende productos y ofrece sus servicios. | Wordpress, elementor, Figma |
 | [Proveus](https://proveus.com.pe/) | Tienda online para Proveus, un negocio de ferretería |  Wordpress, elementor pro, Figma, WooCommerce |
-| [ShoesMarket](https://nilperalta.github.io/MarketSanz/index.html) | Tienda online de zapatos, con catálogo de productos y pedidos gestionados directamente por WhatsApp | JavaScript, Html, CSS, Figma |
+| [ShoesMarket](https://nilperalta.github.io/MarketSanz/index.html) | Tienda online de zapatos, con catálogo de productos y pedidos gestionados directamente por WhatsApp (proyecto migrándose a React, supabase) | JavaScript, Html, CSS, Figma |
 
 ---
 
