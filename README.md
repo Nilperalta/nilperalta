@@ -13,7 +13,7 @@
 
 ## 👩‍💻 Sobre mí
 
-Soy desarrolladora frontend recién egresada de **Administración de Sistemas**. Me gusta construir interfaces claras, responsivas y fáciles de usar, cuidando tanto el código como la experiencia del usuario.
+Desarrolladora frontend egresada de **Administración de Sistemas**. Me gusta construir interfaces claras, responsivas y fáciles de usar, cuidando tanto el código como la experiencia del usuario.
 
 Actualmente estoy:
 
@@ -52,7 +52,7 @@ Actualmente estoy:
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
 | [Tacqua](https://tacqua.pe/) | Empresa de bombas de agua que vende productos y ofrece sus servicios. | Wordpress, elementor, Figma |
-| [Nombre del proyecto](https://github.com/tu-usuario/proyecto) | Breve descripción de qué hace y qué problema resuelve | JavaScript, Supabase |
+| [Proveus](https://proveus.com.pe/) | Tienda online para Proveus, un negocio de ferretería |  Wordpress, elementor pro, Figma, WooCommerce |
 
 ---
 
