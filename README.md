@@ -9,7 +9,7 @@
   Egresada de Administración de Sistemas · Lima, Perú 🇵🇪
 </p>
 
-<img width="100%" height="310" alt="banner" src="https://github.com/user-attachments/assets/cd920e9e-2f12-4d0d-ab6f-88f552d97ed9" />
+<img width="100%" height="310" border-radius="5rem" alt="banner" src="https://github.com/user-attachments/assets/cd920e9e-2f12-4d0d-ab6f-88f552d97ed9" />
 
 ## 👩‍💻 Sobre mí
 
