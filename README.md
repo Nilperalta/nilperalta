@@ -9,7 +9,7 @@
   Egresada de Administración de Sistemas · Lima, Perú 🇵🇪
 </p>
 
-<img width="100%" height="310" border-radius="15px" alt="banner" src="https://github.com/user-attachments/assets/cd920e9e-2f12-4d0d-ab6f-88f552d97ed9" />
+<img width="100%" height="310" alt="banner" src="https://github.com/user-attachments/assets/cd920e9e-2f12-4d0d-ab6f-88f552d97ed9" />
 
 ## 👩‍💻 Sobre mí
 
@@ -51,7 +51,7 @@ Actualmente estoy:
 
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
-| [Nombre del proyecto](https://github.com/tu-usuario/proyecto) | Breve descripción de qué hace y qué problema resuelve | React, CSS |
+| [Tacqua](https://tacqua.pe/) | Empresa de bombas de agua que vende productos y ofrece sus servicios. | Wordpress, elementor, Figma |
 | [Nombre del proyecto](https://github.com/tu-usuario/proyecto) | Breve descripción de qué hace y qué problema resuelve | JavaScript, Supabase |
 
 ---
